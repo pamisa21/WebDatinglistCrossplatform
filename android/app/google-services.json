@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "237412137186",
+    "project_id": "mobileprac",
+    "storage_bucket": "mobileprac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237412137186:android:83bf8804dff159c05946bb",
+        "android_client_info": {
+          "package_name": "com.example.mobileprac"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSgL1tEN1qxXH_IYrV3XbBOJoTTXqjChI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237412137186:android:e2b81d77a4c205735946bb",
+        "android_client_info": {
+          "package_name": "com.example.newprac"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSgL1tEN1qxXH_IYrV3XbBOJoTTXqjChI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237412137186:android:8a595362b46a1d8c5946bb",
+        "android_client_info": {
+          "package_name": "com.example.tinder_yt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSgL1tEN1qxXH_IYrV3XbBOJoTTXqjChI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
